@@ -248,7 +248,7 @@ class MathOperation{
     }
 
     division = (num, dividedBy) => {
-        if (typeof num1 !== 'string' || typeof num2 !== 'string') { 
+        if (typeof num1 !== 'string' || typeof dividedBy !== 'string') { 
             return 'the inputs should be in string type.'
         }
 
