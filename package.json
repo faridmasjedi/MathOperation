@@ -1,0 +1,19 @@
+{
+  "name": "math-operation-js",
+  "version": "1.0.0",
+  "description": "To do the math operations on big numbers in js",
+  "main": "mathOperation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridmasjedi/MathOperation.git"
+  },
+  "author": "Farid Masjedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridmasjedi/MathOperation/issues"
+  },
+  "homepage": "https://github.com/faridmasjedi/MathOperation#readme"
+}
